@@ -1,0 +1,8 @@
+.space{
+    justify-content: space-around;
+    display: flex;
+}
+.right{
+    float: right;
+    margin: 13px;
+}

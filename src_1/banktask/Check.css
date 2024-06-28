@@ -1,0 +1,30 @@
+
+.top_nav {
+    background-color: #94cdde;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.submit_edit{
+/* margin-top: 10px; */
+float: right;
+margin-right: 14%;
+padding-top: 2%;
+}
+.card_align{
+    margin-right: 14px;
+}
+.head_align{
+    padding: 3px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+/* .transaction_edit{
+    margin-right:3px;
+} */
+.moredetails_edit{
+    margin-right: 3px;
+}

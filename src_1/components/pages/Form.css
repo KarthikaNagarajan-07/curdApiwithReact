@@ -1,0 +1,74 @@
+.card_align{
+    display: flex;
+    justify-content: center;
+    width: 35%;
+    margin-left: 30%;
+    margin-top: 5%;
+
+}
+.btn_align{
+    text-align: center;
+}
+ .Name_align{
+    margin-top: 20px;
+    margin-left: 10px;
+} 
+.label_align{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+ .btn_form{
+    text-align: center;
+} 
+/* .btn_align{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top :10px
+}  */
+.basic_align{
+    text-align: center;
+}
+/* .sub_btn{
+    text-align: center;
+} */
+.basic_align{
+    text-align: center;
+}
+.name_align{
+    margin-left: 72px;
+}
+.pan_align{
+    margin-left: 63px;
+}
+.aadhar_align{
+    margin-left: 38px;
+}
+.phone_align{
+    margin-left: 45px;
+}
+.father_align{
+    margin-left: 16px;
+}
+.mother_align{
+    margin-left: 8px;
+}
+.address_align{
+    margin-left: 62px;
+}
+.nation_align{
+    margin-left: 42px;
+}
+.material_align{
+    margin-left: 15px;
+}
+.qualify_align{
+    margin-left: 30px;
+}
+.dob_align{
+    margin-left: 79px;
+}
+.religion_align{
+    margin-left: 60px;
+}
+
+    
